@@ -4,9 +4,9 @@ Single Header C++ Unit Testing Framework
 **Aluminium** is a testing framework for **C++**. It is minimal, light, easy to use and it comprises of a single header file.
 You can create test cases, which will allow you to better organize your unit tests. Its simplicity allows for fast and easy use. Just include the header file in your project and you are good to go.
 
-## Requierments
+## Requirements
 
-Alluminium is written using the C++14 statndard.
+Aluminium is written using the C++14 standard.
 
 ## How to Use
 
